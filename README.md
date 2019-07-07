@@ -1,7 +1,7 @@
 # Udactiy_Project1
 This repository contains all the code for the first project of the my Udacity Nanodegree which is the blog post
 
-Installations
+# Installations
 Python 3.7.3
 Packages I have used are 
 
@@ -11,11 +11,11 @@ pandas-profiling==1.4.2
 seaborn==0.9.0
 matplotlib==3.1.0
 
-Project Motivation
+# Project Motivation
 
 The goal of this project was to explore the boston and seattle AirB&B data for my udacity nanodegree. 
 
-File Descriptions
+# File Descriptions
 
 data - a folder containing the data to be analysed, please not that the data is not syncd but can be accsesed dirctly from 
   https://www.kaggle.com/airbnb/seattle/data for Seattle
@@ -25,10 +25,10 @@ price_time.png and price_MEAN.png are plots generated using the notebooks
 
 Data_exploration_seatle.ipynb, Comparison.ipynb, Data_exploration_boston.ipynb notebooks used for EDA
 
-How to Interact with your project
+# How to Interact with  project
 
-Please feel free to use this for anythingg you like, I am always excited to see what amazing things we can do with data.
+Please feel free to use this for anythingg you like, I am always excited to see what amazing things we can do with data. I have also written up this in a blog please see https://medium.com/@mahtanideepak1989/a-tale-of-two-cities-boston-vs-seattle-airb-b-data-a-quick-overview-d19becd6d486?source=friends_link&sk=836e6460bee512da2e64ec83bb85fd32
 
-Licensing, Authors, Acknowledgements, etc.
+# Licensing, Authors, Acknowledgements, etc.
 
 Thanks to Udacity, Airbnb and Kaggle 
