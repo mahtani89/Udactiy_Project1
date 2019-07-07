@@ -29,6 +29,6 @@ How to Interact with your project
 
 Please feel free to use this for anythingg you like, I am always excited to see what amazing things we can do with data.
 
-5. Licensing, Authors, Acknowledgements, etc.
+Licensing, Authors, Acknowledgements, etc.
 
 Thanks to Udacity, Airbnb and Kaggle 
